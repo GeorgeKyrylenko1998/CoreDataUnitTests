@@ -1,13 +1,13 @@
 //
-//  CoreDataUnitTestsUITestsLaunchTests.swift
-//  CoreDataUnitTestsUITests
+//  ClientsDBUITestsLaunchTests.swift
+//  ClientsDBUITests
 //
 //  Created by George Kyrylenko on 12.08.2023.
 //
 
 import XCTest
 
-final class CoreDataUnitTestsUITestsLaunchTests: XCTestCase {
+final class ClientsDBUITestsLaunchTests: XCTestCase {
 
     override class var runsForEachTargetApplicationUIConfiguration: Bool {
         true

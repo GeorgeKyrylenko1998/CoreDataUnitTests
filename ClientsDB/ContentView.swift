@@ -1,6 +1,6 @@
 //
 //  ContentView.swift
-//  CoreDataUnitTests
+//  ClientsDB
 //
 //  Created by George Kyrylenko on 12.08.2023.
 //

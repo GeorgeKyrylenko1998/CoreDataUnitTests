@@ -1,14 +1,14 @@
 //
-//  CoreDataUnitTestsTests.swift
-//  CoreDataUnitTestsTests
+//  ClientsDBTests.swift
+//  ClientsDBTests
 //
 //  Created by George Kyrylenko on 12.08.2023.
 //
 
 import XCTest
-@testable import CoreDataUnitTests
+@testable import ClientsDB
 
-final class CoreDataUnitTestsTests: XCTestCase {
+final class ClientsDBTests: XCTestCase {
 
     override func setUpWithError() throws {
         // Put setup code here. This method is called before the invocation of each test method in the class.
